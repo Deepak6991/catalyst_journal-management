@@ -2,3 +2,28 @@
       width: 70%;
       height: 55px;
   }
+  
+#slidebar-img1{
+	width:100%;
+	height:430px;
+}
+#slidebar-img2{
+	width:100%;
+	height:430px;
+}
+#slidebar-img3{
+	width:100%;
+	height:430px;
+}
+.main-section{
+	margin-top:25px;
+}
+.content{
+	background-color:red;
+	margin-left:10px;
+	margin-top:10px;
+}
+.content-nav{
+	position:relative;
+	right:50%;
+}
