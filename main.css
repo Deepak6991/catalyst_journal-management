@@ -27,3 +27,12 @@
 	position:relative;
 	right:50%;
 }
+footer{
+	background-color:rgb(68,183, 139);
+	height:100%;
+	
+}
+.about{
+	position:relative;
+	left:-400px;
+}
